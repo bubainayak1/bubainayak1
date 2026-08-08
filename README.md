@@ -2,7 +2,7 @@
 <h3 align="center">Lead Embedded Software Engineer — putting intelligence on hardware</h3>
 
 <p align="center">
-7.5+ years turning silicon into systems that think, sense, and react — in real time, with zero room for error.
+Turning silicon into systems that think, sense, and react — in real time, with zero room for error.
 </p>
 
 ---
