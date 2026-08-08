@@ -54,11 +54,6 @@ Turning silicon into systems that think, sense, and react — in real time, with
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry%20Pi%20Pico](https://img.shields.io/badge/RP2040-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
----
-
-### 📊 GitHub Stats
-
-![Soumen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubainayak1&show_icons=true&theme=default&hide_border=true)
 
 ---
 
