@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm Soumen Nayak 👋</h1>
+<h1 align="center">Hi, I'm Soumen Nayak 👋 https://portfolio-azure-seven-qdmmg1lt70.vercel.app</h1>
 <h3 align="center">Lead Embedded Software Engineer — putting intelligence on hardware</h3>
 
 <p align="center">
 Turning silicon into systems that think, sense, and react — in real time, with zero room for error.
 </p>
-
+<p align="center">
+🌐 <a href="https://portfolio-azure-seven-qdmmg1lt70.vercel.app">Portfolio</a>
+</p>
 ---
 
 ### 🔧 Domains I've worked across
@@ -60,3 +62,4 @@ Turning silicon into systems that think, sense, and react — in real time, with
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumen-nayak1993/)
+[Portfolio](https://portfolio-azure-seven-qdmmg1lt70.vercel.app) .
