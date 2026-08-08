@@ -16,6 +16,7 @@
 | 🌐 **IoT** | Connected devices, sensor pipelines, cloud-linked embedded systems |
 | 🧠 **Embedded AI/ML** | Exploring how intelligence can live on-device, not just in the cloud |
 | ⚙️ **Low-level Systems** | Drivers, HAL, RTOS internals, C/C++ close to the metal |
+| 🔁 **CI/CD** | GitHub Actions pipelines for embedded build/test automation |
 
 ---
 
@@ -37,7 +38,22 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+### 📡 Protocols & Embedded Platforms
+
+![I2C](https://img.shields.io/badge/I2C-4B0082?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-8B0000?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-006400?style=for-the-badge)
+![CAN%20Bus](https://img.shields.io/badge/CAN%20Bus-FF8C00?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Wi--Fi](https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge&logo=wifi&logoColor=white)
+![DICOM](https://img.shields.io/badge/Medical%20Imaging-FF6F61?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry%20Pi%20Pico](https://img.shields.io/badge/RP2040-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
