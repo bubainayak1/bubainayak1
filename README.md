@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Soumen Nayak 👋 https://portfolio-azure-seven-qdmmg1lt70.vercel.app</h1>
+<h1 align="center">Hi, I'm Soumen Nayak 👋 </h1>
 <h3 align="center">Lead Embedded Software Engineer — putting intelligence on hardware</h3>
 
 <p align="center">
