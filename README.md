@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Soumen Nayak 👋
 
 Lead Embedded Software Engineer with 7.5+ years turning silicon into systems that think, sense, and react — in real time, with zero room for error.
@@ -9,7 +6,7 @@ I love the challenge of putting intelligence on hardware — squeezing smart beh
 
 ### 🔧 Domains I've worked across
 - 🏥 **Medical Systems** — safety-critical embedded software for imaging & healthcare devices
-- 🚗 **Automotive** — system validation & testing on HMI and CAN Bus diagnostics 
+- 🚗 **Automotive** — system validation & testing on HMI and CAN Bus diagnostics
 - 🌐 **IoT** — connected devices, sensor pipelines, cloud-linked embedded systems
 - 🧠 **Embedded AI/ML** — exploring how intelligence can live on-device, not just in the cloud
 - ⚙️ **Low-level Systems** — drivers, HAL, RTOS internals, C/C++ close to the metal
@@ -20,5 +17,4 @@ I love the challenge of putting intelligence on hardware — squeezing smart beh
 - I believe the best engineering happens at the edge of curiosity and constraint — creativity isn't just for software with unlimited resources, it's *especially* needed when you have almost none.
 
 ### 📫 Let's connect
-[https://www.linkedin.com/in/soumen-nayak1993/]
--->
+[LinkedIn](https://www.linkedin.com/in/soumen-nayak1993/)
